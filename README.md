@@ -2,6 +2,11 @@
 
 A fully functional Buy and Sell marketplace app built using **Flutter** and **Firebase**, inspired by OLX. Users can post products, browse listings, filter by categories, chat via WhatsApp, and more.
 
+## 📦 Download
+
+[Download APK (v1.0.0)](https://github.com/Gautam-Raaz/Buy-Sell/releases/download/untagged-046629ac62aecd445860/app-release.apk)
+
+
 ---
 
 ## 🚀 Features
